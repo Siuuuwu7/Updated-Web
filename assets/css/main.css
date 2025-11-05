@@ -998,17 +998,17 @@ To make hide the floating cards from mobile version:
   /* Adjust individual card positions for small screens */
   .hero .hero-image .floating-elements .floating-card.design {
     top: 6%;
-    right: 2%;
+    right: -2%;
   }
 
   .hero .hero-image .floating-elements .floating-card.code {
     bottom: 12%;
-    left: 2%;
+    left: -2%;
   }
 
   .hero .hero-image .floating-elements .floating-card.creativity {
     top: 68%;
-    right: 4%;
+    right: 2%;
   }
 
   /* Ensure wrapper doesn't clip them */
